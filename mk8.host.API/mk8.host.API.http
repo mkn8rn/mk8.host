@@ -1,0 +1,6 @@
+@mk8.host.API_HostAddress = http://localhost:5077
+
+GET {{mk8.host.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
